@@ -17,7 +17,7 @@
 　　　　　電源：LiPo 7.4V (Hyperion製)  
 　　　　　使用マイコン：mbed NXP LPC1768  
 　  
-　　　　また、このロボットには実験のため、センサを搭載した。  
+　　　　また、このロボットには実験のため、センサを搭載しました。  
 　　　[![画像2][image2]](http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-ff09pii.png)
 [image2]:http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-ff09pii.png
 　  
