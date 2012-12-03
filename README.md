@@ -20,7 +20,7 @@
 　　　　また、このロボットには実験のため、センサを搭載しました。  
 　　　[![画像2][image2]](http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-ff09pii.png)
 [image2]:http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-ff09pii.png
-　　　　　3軸加速度センサ [KXM52-1050](http://akizukidenshi.com/catalog/g/gI-01425/)　　（入手先：秋月電子通商[http://akizukidenshi.com/catalog/default.aspx](http://akizukidenshi.com/catalog/default.aspx)）  
+　　　　　3軸加速度センサ [KXM52-1050](http://akizukidenshi.com/catalog/g/gI-01425/)　　（入手先：[秋月電子通商](http://akizukidenshi.com/catalog/default.aspx)  
 　　　　　　　　　電源電圧：2.7～5.5V  
 　　　　　　　　　測定レンジ：±2G  
 　　　　　　　　　感度：670mV/G（標準3.3V時）  
@@ -89,5 +89,5 @@
 　    
 　このようなロボットは私たちの研究で使用したサーボモータ以外のものを用いても製作可能です。  
 各軸間等を揃えたフレームを用いれば、入手しやすいサーボモータを使用してもロボットを動かすことができます。  
-　またアルミの加工が難しい場合は、フレームにタミヤ社製ユニバーサルプレート（[http://www.tamiya.com/japan/products/70172plate/index.htm](http://www.tamiya.com/japan/products/70172plate/index.htm)）等を  
+　またアルミの加工が難しい場合は、フレームに[タミヤ社製ユニバーサルプレート](http://www.tamiya.com/japan/products/70172plate/index.htm)等を  
 使用すれば簡単に製作できます。　　
