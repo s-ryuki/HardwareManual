@@ -13,25 +13,25 @@
 　　　[![画像1][image1]](http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-ff09pii.png)
 [image1]:http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-ff09pii.png
 
-　　　　　サーボモータ：PRS-FF09PⅡ（Pirkus製）  
-　　　　　電源：LiPo 7.4V (Hyperion製)  
+　　　　　サーボモータ：[PRS-FF09PⅡ](http://www.pirkus.co.jp/products_servo09.html)（Pirkus製）  
+　　　　　電源：LiPo 7.4V 1100mAh (Hyperion製)  
 　　　　　使用マイコン：mbed NXP LPC1768  
 　  
 　　　　また、このロボットには実験のため、センサを搭載しました。  
 　　　[![画像2][image2]](http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-ff09pii.png)
 [image2]:http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-ff09pii.png
 　  
-　　　　　3軸加速度センサ [KXM52-1050](http://akizukidenshi.com/catalog/g/gI-01425/)（入手先：秋月電子通商[http://akizukidenshi.com/catalog/default.aspx](http://akizukidenshi.com/catalog/default.aspx)）  
-　　　　　　　電源電圧：2.7～5.5V  
-　　　　　　　測定レンジ：±2G  
-　　　　　　　感度：670mV/G（標準3.3V時）  
+　　　　　3軸加速度センサ [KXM52-1050](http://akizukidenshi.com/catalog/g/gI-01425/)　　（入手先：秋月電子通商[http://akizukidenshi.com/catalog/default.aspx](http://akizukidenshi.com/catalog/default.aspx)）  
+　　　　　　　　　電源電圧：2.7～5.5V  
+　　　　　　　　　測定レンジ：±2G  
+　　　　　　　　　感度：670mV/G（標準3.3V時）  
 　　　　　　　　　　　
 　  
 ### 2．コマンド方式のサーボモータを用いたロボット ###
 　　　[![画像3][image3]](http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-s40m2.png)
 [image3]:http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-s40m2.png
 
-　　　　　サーボモータ：PRS-S40M（Pirkus製）  
+　　　　　サーボモータ：[PRS-S40M](http://www.pirkus.co.jp/products_servos04m.html)（Pirkus製）  
 　　　　　電源：LiPo 7.4V  (Hyperion製)  
 
 　　　　　PRS-S40Mのマニュアルはこちらをご覧ください。  
