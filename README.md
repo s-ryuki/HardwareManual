@@ -71,15 +71,14 @@
 [image5]:http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-s40m2.png  
 　  
 　すべての加工が終了すると以下のようになります。
-　なお、写真のパーツにはアルマイト処理が施されていります。
+　なお、写真のパーツにはアルマイト処理が施されております。
 　
 　　[![画像6][image6]](http://cloud.github.com/downloads/s-ryuki/Pictures/Parts.png)
 [image6]:http://cloud.github.com/downloads/s-ryuki/Pictures/Parts.png  
 　  
-　  
 #### (3)組立て ####
-　これらのパーツを長さ5mm程度のM2ネジで組み上げます。
-　その後、頭の部分に重りを取り付け、足裏に体を左右に振るためのパーツを取り付けます。
+　これらのパーツを長さ5mm程度のM2ネジで組み上げます。  
+　その後、頭の部分に重りを取り付け、足裏に体を左右に振るためのパーツを取り付けます。  
 　最後に背中にコントロールボードを搭載し、各サーボを接続すれば完成です。
 　  
 　  
