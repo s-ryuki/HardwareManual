@@ -20,7 +20,7 @@
 　　　　また、このロボットには実験のため、センサを搭載しました。  
 　　　[![画像2][image2]](http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-ff09pii.png)
 [image2]:http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-ff09pii.png
-　　　　　3軸加速度センサ [KXM52-1050](http://akizukidenshi.com/catalog/g/gI-01425/)　　（入手先：[秋月電子通商](http://akizukidenshi.com/catalog/default.aspx)  
+　　　　　3軸加速度センサ [KXM52-1050](http://akizukidenshi.com/catalog/g/gI-01425/)　　（入手先：[秋月電子通商](http://akizukidenshi.com/catalog/default.aspx)）  
 　　　　　　　　　電源電圧：2.7～5.5V  
 　　　　　　　　　測定レンジ：±2G  
 　　　　　　　　　感度：670mV/G（標準3.3V時）  
@@ -49,14 +49,14 @@
 　切削加工に用いるDXFデータをそれぞれのロボットに関してアップロードしましたのでご使用ください。  
 　  
 　　　　PRS-FF09PⅡ用：[3axis_prs-ff09pii_frame1.dxf](https://github.com/downloads/s-ryuki/HardwareManual/3axis_prs-ff09pii_frame1.dxf)  
-　　　　　　　　　　　　[3axis_prs-ff09pii_frame2.dxf](https://github.com/downloads/s-ryuki/HardwareManual/3axis_prs-ff09pii_frame2.dxf)
+　　　　　　　　　　　　[3axis_prs-ff09pii_frame2.dxf](https://github.com/downloads/s-ryuki/HardwareManual/3axis_prs-ff09pii_frame2.dxf)  
 　　　　PRS-S40M用：[3axis_prs-s40m_frame(1).dxf]()  
 　　　　　　　　　　　　[3axis_prs-s40m_frame(2).dxf]()  
 　　　　　　　　　　　　[3axis_prs-s40m_frame(3).dxf]()  
 　  
 #### (2)各パーツの追加工 ####
 　切削できたパーツはバリを取り除いた後、「ねじ切り加工」と「曲げ加工」を行います。  
-　以下の図は「3axis_prs-ff09pii_frame.dxf(1)・(2)」と同様に配置された図面です。
+　以下の図は「3axis_prs-ff09pii_frame1.dxf、3axis_prs-ff09pii_frame2.dxf」と同様に配置された図面です。
 　まず以下の赤で囲まれている穴にM2の雌ねじを切ります。  
 　ホームセンサー等で市販されているM2タップをご使用ください。ネジを切る際には切削油を用い、  
 　切り粉が詰まらないように注意してください。
