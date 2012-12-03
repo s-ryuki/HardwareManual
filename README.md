@@ -22,9 +22,9 @@
 [image2]:http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-ff09pii.png
 　  
 　　　　　3軸加速度センサ [KXM52-1050](http://akizukidenshi.com/catalog/g/gI-01425/)（入手先：秋月電子通商[http://akizukidenshi.com/catalog/default.aspx](http://akizukidenshi.com/catalog/default.aspx)）  
-　　　　　　　電源電圧：2.7～5.5V
-　　　　　　　測定レンジ：±2G
-　　　　　　　感度：670mV/G（標準3.3V時）
+　　　　　　　電源電圧：2.7～5.5V  
+　　　　　　　測定レンジ：±2G  
+　　　　　　　感度：670mV/G（標準3.3V時）  
 　　　　　　　　　　　
 　  
 ### 2．コマンド方式のサーボモータを用いたロボット ###
