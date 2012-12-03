@@ -54,10 +54,16 @@
 　ホームセンサー等で市販されているM2タップをご使用ください。ネジを切る際には切削油を用い、  
 　切り粉が切り粉が詰まらないように注意してください。
 　  
-　次に曲げ加工を行います。以下の
+　次に曲げ加工を行います。以下の青いラインで各パーツを90度曲げます。  
+　曲げ加工には板金専用のベンダーをお使いください。  
+　  
+　　[![画像3][image3]](http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-s40m2.png)
+[image3]:http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-s40m2.png
 
-
-
+　　[![画像4][image4]](http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-s40m2.png)
+[image4]:http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-s40m2.png
+　  
+　  
 [Robotma.com](http://www.robotma.com/)では「オリジナルロボット製作支援サービス」としてDXFデータを渡せば  
 アルミ板の切削加工を代行するサービスがあります。ほかのロボットショップでもこのような  
 加工代行サービスを行っているところは多く、加工設備が無い場合でも製作できますので、お試しください。  
