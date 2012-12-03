@@ -26,7 +26,7 @@
 
 　　　　　PRS-S40Mのハードウェアマニュアルはこちらをご覧ください。  
 　  
-　　　　　　　[PRS-DE07MS/PRS-S40M ハードウェアマニュアル]()
+　　　　　　　[PRS-DE07MS/PRS-S40M ハードウェアマニュアル](http://cloud.github.com/downloads/s-ryuki/HardwareManual/PRS-DE07MS_PRS-S40M_%E7%AC%AC%E5%9B%9B%E7%89%88.pdf)
 　  
 　  
 ロボットの製作
