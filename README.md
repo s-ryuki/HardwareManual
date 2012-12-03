@@ -21,7 +21,7 @@
 　　　[![画像2][image2]](http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-ff09pii.png)
 [image2]:http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-ff09pii.png
 　  
-　　　　　3軸加速度センサ [KXM52-1050](http://akizukidenshi.com/catalog/g/gI-01425/)（販売店：秋月電子通商[http://akizukidenshi.com/catalog/default.aspx](http://akizukidenshi.com/catalog/default.aspx)）  
+　　　　　3軸加速度センサ [KXM52-1050](http://akizukidenshi.com/catalog/g/gI-01425/)（入手先：秋月電子通商[http://akizukidenshi.com/catalog/default.aspx](http://akizukidenshi.com/catalog/default.aspx)）  
 　　　　　　　電源電圧：2.7～5.5V
 　　　　　　　測定レンジ：±2G
 　　　　　　　感度：670mV/G（標準3.3V時）
@@ -73,12 +73,22 @@
 　　[![画像5][image5]](http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-s40m2.png)
 [image5]:http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-s40m2.png
 　  
+#### (3)組立て #####  
+　すべての加工が終了すると以下のようになります。
+　なお、写真のパーツにはアルマイト処理が施されていります。
+　
+　　[![画像6][image6]](http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-s40m2.png)
+[image6]:http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-s40m2.png  
 　  
-[Robotma.com](http://www.robotma.com/)では「オリジナルロボット製作支援サービス」としてDXFデータを渡せば  
+　これらのパーツを長さ5mm程度のM2ネジで組み上げれば完成です。
+　  
+　  
+　  
+なお、[Robotma.com](http://www.robotma.com/)では「オリジナルロボット製作支援サービス」としてDXFデータを渡せば  
 アルミ板の切削加工を代行するサービスがあります。ほかのロボットショップでもこのような  
 加工代行サービスを行っているところは多く、加工設備が無い場合でも製作できますので、お試しください。  
 　    
-　このようなロボットは私たちの研究で使用した２種類のサーボモータ以外のものを用いても製作可能です。  
+　このようなロボットは私たちの研究で使用したサーボモータ以外のものを用いても製作可能です。  
 各軸間等を揃えたフレームを用いれば、入手しやすいサーボモータを使用してもロボットを動かすことができます。  
-またフレームは、タミヤ社製ユニバーサルプレート（[http://www.tamiya.com/japan/products/70172plate/index.htm](http://www.tamiya.com/japan/products/70172plate/index.htm)）等を  
+　またアルミの加工が難しい場合は、フレームにタミヤ社製ユニバーサルプレート（[http://www.tamiya.com/japan/products/70172plate/index.htm](http://www.tamiya.com/japan/products/70172plate/index.htm)）等を  
 使用すれば簡単に製作できます。　　
