@@ -79,7 +79,9 @@
 　　[![画像6][image6]](http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-s40m2.png)
 [image6]:http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-s40m2.png  
 　  
-　これらのパーツを長さ5mm程度のM2ネジで組み上げれば完成です。
+　これらのパーツを長さ5mm程度のM2ネジで組み上げます。
+　その後、頭の部分に重りを取り付け、足裏に体を左右に振るためのパーツを取り付けます。
+　最後に背中にコントロールボードを搭載し、各サーボを接続すれば完成です。
 　  
 　  
 　  
