@@ -20,7 +20,6 @@
 　　　　また、このロボットには実験のため、センサを搭載しました。  
 　　　[![画像2][image2]](http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-ff09pii.png)
 [image2]:http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-ff09pii.png
-　  
 　　　　　3軸加速度センサ [KXM52-1050](http://akizukidenshi.com/catalog/g/gI-01425/)　　（入手先：秋月電子通商[http://akizukidenshi.com/catalog/default.aspx](http://akizukidenshi.com/catalog/default.aspx)）  
 　　　　　　　　　電源電圧：2.7～5.5V  
 　　　　　　　　　測定レンジ：±2G  
@@ -34,7 +33,7 @@
 　　　　　サーボモータ：[PRS-S40M](http://www.pirkus.co.jp/products_servos04m.html)（Pirkus製）  
 　　　　　電源：LiPo 7.4V  (Hyperion製)  
 
-　　　　　PRS-S40Mのマニュアルはこちらをご覧ください。  
+　　　　PRS-S40Mのマニュアルはこちらをご覧ください。  
 　  
 　　　　　　　[PRS-DE07MS/PRS-S40M マニュアル]
 (http://cloud.github.com/downloads/s-ryuki/HardwareManual/PRS-DE07MS_PRS-S40M_%E7%AC%AC%E5%9B%9B%E7%89%88.pdf)（提供：株式会社ピルクス）
