@@ -40,12 +40,12 @@
 　切削加工に用いるDXFデータをそれぞれのロボットに関してアップロードしましたのでご使用ください。  
 　  
 　　　　PRS-FF09PⅡ用：[3axis_prs-ff09pii_frame(1).dxf]()  
-　　　　　　　　　　 　[3axis_prs-ff09pii_frame(2).dxf]()   
-　　　　　　　　　　　 [3axis_prs-ff09pii_frame(3).dxf]()  
+　　　　　　　　　　　　　[3axis_prs-ff09pii_frame(2).dxf]()  
+　　　　　　　　　　　　　[3axis_prs-ff09pii_frame(3).dxf]()  
 　  
 　　　　PRS-S40M用：[3axis_prs-s40m_frame(1).dxf]()  
-　　　　　　　　　　[3axis_prs-s40m_frame(2).dxf]()  
-　　　　　　　　　　[3axis_prs-s40m_frame(3).dxf]()  
+　　　　　　　　　　　　[3axis_prs-s40m_frame(2).dxf]()  
+　　　　　　　　　　　　[3axis_prs-s40m_frame(3).dxf]()  
 　  
 #### (2)各パーツの追加工 #####
 　切削できたパーツはバリを取り除いた後、「ねじ切り加工」と「曲げ加工」を行います。
