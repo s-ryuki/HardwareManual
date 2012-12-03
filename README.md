@@ -73,8 +73,8 @@
 　すべての加工が終了すると以下のようになります。
 　なお、写真のパーツにはアルマイト処理が施されていります。
 　
-　　[![画像6][image6]](http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-s40m2.png)
-[image6]:http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-s40m2.png  
+　　[![画像6][image6]](http://cloud.github.com/downloads/s-ryuki/Pictures/Parts.png)
+[image6]:http://cloud.github.com/downloads/s-ryuki/Pictures/Parts.png  
 　  
 　  
 #### (3)組立て ####
