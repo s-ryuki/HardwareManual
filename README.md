@@ -56,7 +56,7 @@
 　　　　　　　　　　　　[3axis_prs-s40m_frame(2).dxf]()  
 　　　　　　　　　　　　[3axis_prs-s40m_frame(3).dxf]()  
 　  
-#### (2)各パーツの追加工 #####
+#### (2)各パーツの追加工 ####
 　切削できたパーツはバリを取り除いた後、「ねじ切り加工」と「曲げ加工」を行います。  
 　以下の図は「3axis_prs-ff09pii_frame.dxf(1)・(2)」と同様に配置された図面です。
 　まず以下の赤で囲まれている穴にM2の雌ねじを切ります。  
@@ -72,7 +72,7 @@
 　　[![画像5][image5]](http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-s40m2.png)
 [image5]:http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-s40m2.png
 　  
-#### (3)組立て #####  
+#### (3)組立て ####  
 　すべての加工が終了すると以下のようになります。
 　なお、写真のパーツにはアルマイト処理が施されていります。
 　
