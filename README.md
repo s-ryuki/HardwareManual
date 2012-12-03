@@ -24,11 +24,10 @@
 　　　　　サーボモータ：PRS-S40M（Pirkus製）  
 　　　　　電源：LiPo 7.4V  (Hyperion製)  
 
-　　　　　PRS-S40Mのハードウェアマニュアルはこちらをご覧ください。  
+　　　　　PRS-S40Mのマニュアルはこちらをご覧ください。  
 　  
-　　　　　　　[PRS-DE07MS/PRS-S40M ハードウェアマニュアル](http://cloud.github.com/downloads/s-ryuki/HardwareManual/PRS-DE07MS_PRS-S40M_%E7%AC%AC%E5%9B%9B%E7%89%88.pdf)
-　  
-　  
+　　　　　　　[PRS-DE07MS/PRS-S40M マニュアル](http://cloud.github.com/downloads/s-ryuki/HardwareManual/PRS-DE07MS_PRS-S40M_%E7%AC%AC%E5%9B%9B%E7%89%88.pdf)　  
+　　　　　　　　　　　　　　（提供：株式会社Pirkus）　  
 ロボットの製作
 ------------
 　これらのロボットは市販されているサーボモータを使用し、  
