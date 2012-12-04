@@ -37,7 +37,8 @@
 　  
 　　　　　　　[PRS-DE07MS/PRS-S40M マニュアル]
 (http://cloud.github.com/downloads/s-ryuki/HardwareManual/PRS-DE07MS_PRS-S40M_%E7%AC%AC%E5%9B%9B%E7%89%88.pdf)（提供：株式会社ピルクス）
-　  　  
+　  
+　  
 ロボットの製作
 ------------
 　これらのロボットは市販されているサーボモータを使用し、  
@@ -50,9 +51,9 @@
 　  
 　　　　PRS-FF09PⅡ用：[3axis_prs-ff09pii_frame1.dxf](https://github.com/downloads/s-ryuki/HardwareManual/3axis_prs-ff09pii_frame1.dxf)  
 　　　　　　　　　　　　[3axis_prs-ff09pii_frame2.dxf](https://github.com/downloads/s-ryuki/HardwareManual/3axis_prs-ff09pii_frame2.dxf)  
-　　　　PRS-S40M用：[3axis_prs-s40m_frame(1).dxf]()  
-　　　　　　　　　　　　[3axis_prs-s40m_frame(2).dxf]()  
-　　　　　　　　　　　　[3axis_prs-s40m_frame(3).dxf]()  
+　　　　PRS-S40M用：[3axis_prs-s40m_frame1.dxf]()  
+　　　　　　　　　　　　[3axis_prs-s40m_frame2.dxf]()  
+　　　　　　　　　　　　[3axis_prs-s40m_frame3.dxf]()  
 　  
 #### (2)各パーツの追加工 ####
 　切削できたパーツはバリを取り除いた後、「ねじ切り加工」と「曲げ加工」を行います。  
