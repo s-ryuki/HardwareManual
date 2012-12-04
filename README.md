@@ -50,18 +50,18 @@
 　切削加工に用いるDXFデータをそれぞれのロボットに関してアップロードしましたのでご使用ください。  
 　  
 　　　　PRS-FF09PⅡ用：[3axis_prs-ff09pii_frame1.dxf](https://github.com/downloads/s-ryuki/HardwareManual/3axis_prs-ff09pii_frame1.dxf)　・　
-　　　　[3axis_prs-ff09pii_frame2.dxf](https://github.com/downloads/s-ryuki/HardwareManual/3axis_prs-ff09pii_frame2.dxf)    
+[3axis_prs-ff09pii_frame2.dxf](https://github.com/downloads/s-ryuki/HardwareManual/3axis_prs-ff09pii_frame2.dxf)    
 　　　　PRS-S40M用：[3axis_prs-s40m_frame1.dxf](https://github.com/downloads/s-ryuki/HardwareManual/3axis_prs-s40m_frame1.dxf)　・　
-　　　　[3axis_prs-s40m_frame2.dxf](https://github.com/downloads/s-ryuki/HardwareManual/3axis_prs-s40m_frame2.dxf)  
+[3axis_prs-s40m_frame2.dxf](https://github.com/downloads/s-ryuki/HardwareManual/3axis_prs-s40m_frame2.dxf)  
 　  
 #### (2)各パーツの追加工 ####
-　切削できたパーツはバリを取り除いた後、「ねじ切り加工」と「曲げ加工」を行います。  
+　　切削できたパーツはバリを取り除いた後、「ねじ切り加工」と「曲げ加工」を行います。  
 　以下の図は「3axis_prs-ff09pii_frame1.dxf、3axis_prs-ff09pii_frame2.dxf」と同様に配置された図面です。  
-　まず以下の赤で囲まれている穴にM2の雌ねじを切ります。  
+　　まず以下の赤で囲まれている穴にM2の雌ねじを切ります。  
 　ホームセンサー等で市販されているM2タップをご使用ください。ネジを切る際には切削油を用い、  
 　切り粉が詰まらないように注意してください。
 　  
-　次に曲げ加工を行います。以下の青いラインで各パーツを90度曲げます。  
+　　次に曲げ加工を行います。以下の青いラインで各パーツを90度曲げます。  
 　実線は谷折り曲げ、1点鎖線は山折り曲げをしてください。山折りと谷折りが混在するパーツは、曲げる順番に気をつけてください。
 　なお曲げ加工には板金専用のベンダーをお使いください。  
 　  
@@ -84,7 +84,7 @@
 　  
 　  
 　  
-なお、[Robotma.com](http://www.robotma.com/)では「オリジナルロボット製作支援サービス」としてDXFデータを渡せば  
+　なお、[Robotma.com](http://www.robotma.com/)では「オリジナルロボット製作支援サービス」としてDXFデータを渡せば  
 アルミ板の切削加工を代行するサービスがあります。ほかのロボットショップでもこのような  
 加工代行サービスを行っているところは多く、加工設備が無い場合でも製作できますので、お試しください。  
 　    
