@@ -57,16 +57,17 @@
 　  
 #### (2)各パーツの追加工 ####
 　切削できたパーツはバリを取り除いた後、「ねじ切り加工」と「曲げ加工」を行います。  
-　以下の図は「3axis_prs-ff09pii_frame1.dxf、3axis_prs-ff09pii_frame2.dxf」と同様に配置された図面です。
+　以下の図は「3axis_prs-ff09pii_frame1.dxf、3axis_prs-ff09pii_frame2.dxf」と同様に配置された図面です。  
 　まず以下の赤で囲まれている穴にM2の雌ねじを切ります。  
 　ホームセンサー等で市販されているM2タップをご使用ください。ネジを切る際には切削油を用い、  
 　切り粉が詰まらないように注意してください。
 　  
 　次に曲げ加工を行います。以下の青いラインで各パーツを90度曲げます。  
-　曲げ加工には板金専用のベンダーをお使いください。  
+　実線は谷折り曲げ、1点鎖線は山折り曲げをしてください。山折りと谷折りが混在するパーツは、曲げる順番に気をつけてください。
+　なお曲げ加工には板金専用のベンダーをお使いください。  
 　  
-　　[![画像4][image4]](http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-s40m2.png)
-[image4]:http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-s40m2.png
+　　[![画像4][image4]](http://cloud.github.com/downloads/s-ryuki/Pictures/drow_prs-ff09pii.png)
+[image4]:http://cloud.github.com/downloads/s-ryuki/Pictures/drow_prs-ff09pii.png
 
 　　[![画像5][image5]](http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-s40m2.png)
 [image5]:http://cloud.github.com/downloads/s-ryuki/Pictures/3axis_prs-s40m2.png  
