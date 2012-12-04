@@ -49,10 +49,10 @@
 　使用する部材はA5052のt1.5mmのアルミ板です。これは各ロボットショップで購入可能です。　  
 　切削加工に用いるDXFデータをそれぞれのロボットに関してアップロードしましたのでご使用ください。  
 　  
-　　　　PRS-FF09PⅡ用：[3axis_prs-ff09pii_frame1.dxf](https://github.com/downloads/s-ryuki/HardwareManual/3axis_prs-ff09pii_frame1.dxf)　・　
-[3axis_prs-ff09pii_frame2.dxf](https://github.com/downloads/s-ryuki/HardwareManual/3axis_prs-ff09pii_frame2.dxf)    
-　　　　PRS-S40M用：[3axis_prs-s40m_frame1.dxf](https://github.com/downloads/s-ryuki/HardwareManual/3axis_prs-s40m_frame1.dxf)　・　
-[3axis_prs-s40m_frame2.dxf](https://github.com/downloads/s-ryuki/HardwareManual/3axis_prs-s40m_frame2.dxf)  
+　　　　PRS-FF09PⅡ用：[[3axis_prs-ff09pii_frame1.dxf]](https://github.com/downloads/s-ryuki/HardwareManual/3axis_prs-ff09pii_frame1.dxf)・
+[[3axis_prs-ff09pii_frame2.dxf]](https://github.com/downloads/s-ryuki/HardwareManual/3axis_prs-ff09pii_frame2.dxf)    
+　　　　PRS-S40M用：[[3axis_prs-s40m_frame1.dxf]](https://github.com/downloads/s-ryuki/HardwareManual/3axis_prs-s40m_frame1.dxf)・
+[[3axis_prs-s40m_frame2.dxf]](https://github.com/downloads/s-ryuki/HardwareManual/3axis_prs-s40m_frame2.dxf)  
 　  
 #### (2)各パーツの追加工 ####
 　　切削できたパーツはバリを取り除いた後、「ねじ切り加工」と「曲げ加工」を行います。  
