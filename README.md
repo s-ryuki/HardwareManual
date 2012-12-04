@@ -78,12 +78,12 @@
 [image6]:http://cloud.github.com/downloads/s-ryuki/Pictures/Parts.png  
 　  
 #### (3)基板の製作 ####
-　　私たちの実験ではPWM方式のサーボモータを用いたロボットにmbed NXP LPC1768を用いました。
-　これが信号を受け取り、PWMを3本出力してロボットを制御します。
-　以下に回路図をアップロードしましたので、これを参考に基板を作成ください。
+　　私たちの実験ではPWM方式のサーボモータを用いたロボットにmbed NXP LPC1768を用いました。  
+　これが信号を受け取り、PWMを3本出力してロボットを制御します。  
+　以下に回路図をアップロードしましたので、これを参考に基板を作成ください。  
 　　　　[mbed_pwm_circuit]()  
 　また、McuCommコンポーネント用、SensorModuleコンポーネント用のソースコードをそれぞれアップロードしましたので  
-　こちらを書き込んだ上でご使用ください。
+　こちらを書き込んだ上でご使用ください。  
 　　　　[mbed-for-McuComm](http://mbed.org/users/matsu/code/pc-to-mbed-to-servo/)  
 　　　　[mbed-for-SensorModule]()  
 　  
